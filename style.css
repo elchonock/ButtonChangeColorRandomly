@@ -1,0 +1,11 @@
+
+.btnColor {
+    width: 150px; 
+    height: 70px; 
+    font-size: 30px;
+    cursor: pointer;
+    display: block; 
+    margin: 0 auto; 
+    margin-bottom: 50%;
+    margin-top: 100px;
+}
